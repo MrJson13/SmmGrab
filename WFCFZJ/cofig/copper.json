@@ -1,0 +1,689 @@
+﻿{
+	"item_id": 8,
+	"item_name": "铜",
+	"list_order": 110000,
+  "category": [
+    {
+      "category_id": 244,
+      "category_name": "SMM 1#电解铜",
+      "list_order": 11001,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201102250376",
+          "product_name": "SMM 1#电解铜",
+          "price_type": 0,
+          "list_order": 0,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250185",
+          "product_name": "SMM 1#电解铜升贴水",
+          "price_type": 1,
+          "list_order": 20,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250170",
+          "product_name": "平水铜",
+          "price_type": 0,
+          "list_order": 30,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250619",
+          "product_name": "平水铜升贴水",
+          "price_type": 1,
+          "list_order": 40,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250127",
+          "product_name": "升水铜",
+          "price_type": 0,
+          "list_order": 50,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250618",
+          "product_name": "升水铜 升贴水",
+          "price_type": 1,
+          "list_order": 60,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250527",
+          "product_name": "贵溪铜",
+          "price_type": 0,
+          "list_order": 70,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250245",
+          "product_name": "贵溪铜升贴水",
+          "price_type": 1,
+          "list_order": 80,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250396",
+          "product_name": "湿法铜",
+          "price_type": 0,
+          "list_order": 90,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250620",
+          "product_name": "湿法铜升贴水",
+          "price_type": 1,
+          "list_order": 100,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 244,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 146,
+      "category_name": "SMM广东1#电解铜",
+      "list_order": 11005,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201912300001",
+          "product_name": "SMM 广东1#电解铜",
+          "price_type": 0,
+          "list_order": 110,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 146,
+          "price_description": ""
+        },
+        {
+          "product_id": "201912300002",
+          "product_name": "SMM 广东1#电解铜升贴水?",
+          "price_type": 1,
+          "list_order": 120,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 146,
+          "price_description": ""
+        },
+        {
+          "product_id": "201912300003",
+          "product_name": "SMM 广东湿法铜",
+          "price_type": 0,
+          "list_order": 130,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 146,
+          "price_description": ""
+        },
+        {
+          "product_id": "201912300004",
+          "product_name": "SMM 广东湿法铜升贴水",
+          "price_type": 1,
+          "list_order": 140,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 146,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 245,
+      "category_name": "洋山铜溢价",
+      "list_order": 11010,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201211190003",
+          "product_name": "洋山铜溢价(仓单)",
+          "price_type": 0,
+          "list_order": 150,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 245,
+          "price_description": ""
+        },
+        {
+          "product_id": "201704240001",
+          "product_name": "洋山铜溢价(提单)",
+          "price_type": 0,
+          "list_order": 160,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 245,
+          "price_description": ""
+        },
+        {
+          "product_id": "201412030001",
+          "product_name": "人民币洋山铜溢价",
+          "price_type": 0,
+          "list_order": 170,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 245,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 86,
+      "category_name": "SMM鹰潭价格",
+      "list_order": 11015,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "202002260001",
+          "product_name": "SMM鹰潭1#电解铜",
+          "price_type": 0,
+          "list_order": 190,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 86,
+          "price_description": ""
+        },
+        {
+          "product_id": "202002260002",
+          "product_name": "SMM鹰潭1#电解铜升贴水",
+          "price_type": 1,
+          "list_order": 200,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 86,
+          "price_description": ""
+        },
+        {
+          "product_id": "202002260003",
+          "product_name": "SMM鹰潭8mm铜杆加工费(月度)",
+          "price_type": 0,
+          "list_order": 210,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 86,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 116,
+      "category_name": "电解铜地区价格",
+      "list_order": 11020,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201102250332",
+          "product_name": "1#电解铜(华东)",
+          "price_type": 0,
+          "list_order": 220,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 116,
+          "price_description": ""
+        },
+        {
+          "product_id": "201501050001",
+          "product_name": "1#电解铜(华东)升贴 水",
+          "price_type": 1,
+          "list_order": 230,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 116,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250266",
+          "product_name": "1#电解铜(华北)",
+          "price_type": 0,
+          "list_order": 240,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 116,
+          "price_description": ""
+        },
+        {
+          "product_id": "201501050002",
+          "product_name": "1#电解铜(华北)升贴水",
+          "price_type": 1,
+          "list_order": 250,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 116,
+          "price_description": ""
+        },
+        {
+          "product_id": "202005250001",
+          "product_name": "1#电解铜(西南)",
+          "price_type": 0,
+          "list_order": 260,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 116,
+          "price_description": ""
+        },
+        {
+          "product_id": "202005250002",
+          "product_name": "1#电解铜(西南)升贴水",
+          "price_type": 1,
+          "list_order": 270,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 116,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 133,
+      "category_name": "SMM铜精矿指数",
+      "list_order": 11025,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201910240001",
+          "product_name": "进口铜精矿指数(周)",
+          "price_type": 17,
+          "list_order": 300,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 133,
+          "price_description": ""
+        },
+        {
+          "product_id": "201910240002",
+          "product_name": "进口铜 精矿指数(月)",
+          "price_type": 17,
+          "list_order": 310,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 133,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 115,
+      "category_name": "粗铜加工费",
+      "list_order": 11030,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201905280001",
+          "product_name": "国产粗铜(月)",
+          "price_type": 0,
+          "list_order": 320,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 115,
+          "price_description": ""
+        },
+        {
+          "product_id": "201905280002",
+          "product_name": "CIF进口粗铜(月)",
+          "price_type": 0,
+          "list_order": 330,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 115,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 105,
+      "category_name": "8mm铜杆加工费(周度）",
+      "list_order": 11035,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201811010001",
+          "product_name": "电力行业用杆（华东）",
+          "price_type": 0,
+          "list_order": 340,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": ""
+        },
+        {
+          "product_id": "201811010002",
+          "product_name": "漆包线用杆（华东）",
+          "price_type": 0,
+          "list_order": 350,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": "8mm铜杆加工费（月度）"
+        },
+        {
+          "product_id": "202004080001",
+          "product_name": "电力行业用杆（华南）",
+          "price_type": 0,
+          "list_order": 360,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": ""
+        },
+        {
+          "product_id": "202004080002",
+          "product_name": "漆包线用杆（华南）",
+          "price_type": 0,
+          "list_order": 370,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": ""
+        },
+        {
+          "product_id": "202004080003",
+          "product_name": "电力行业用杆（华北）",
+          "price_type": 0,
+          "list_order": 380,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": ""
+        },
+        {
+          "product_id": "202004080004",
+          "product_name": "漆包线用杆（华北）",
+          "price_type": 0,
+          "list_order": 390,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": ""
+        },
+        {
+          "product_id": "202005250003",
+          "product_name": "电力行业用杆(西南)",
+          "price_type": 0,
+          "list_order": 400,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 105,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 248,
+      "category_name": "再生铜制杆",
+      "list_order": 11037,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "202008280001",
+          "product_name": "8mm保阻杆（江西）",
+          "price_type": 0,
+          "list_order": 0,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 248,
+          "price_description": ""
+        },
+        {
+          "product_id": "202008280002",
+          "product_name": "盘面扣减（江西）",
+          "price_type": 0,
+          "list_order": 10,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 248,
+          "price_description": ""
+        },
+        {
+          "product_id": "202103260001",
+          "product_name": "8mm保阻杆（河南）",
+          "price_type": 0,
+          "list_order": 20,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 248,
+          "price_description": ""
+        },
+        {
+          "product_id": "202103260002",
+          "product_name": "盘面扣减（河南）",
+          "price_type": 0,
+          "list_order": 30,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 248,
+          "price_description": ""
+        },
+        {
+          "product_id": "202103260003",
+          "product_name": "8mm保阻杆（河北）",
+          "price_type": 0,
+          "list_order": 40,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 248,
+          "price_description": ""
+        },
+        {
+          "product_id": "202103260004",
+          "product_name": "盘面扣减（河北）",
+          "price_type": 0,
+          "list_order": 50,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 248,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 141,
+      "category_name": "SMM黄铜棒",
+      "list_order": 11040,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "202001150001",
+          "product_name": "金龙(HPb59-1)",
+          "price_type": 0,
+          "list_order": 430,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 141,
+          "price_description": ""
+        },
+        {
+          "product_id": "201911280001",
+          "product_name": "金龙(HPb58-3A)",
+          "price_type": 0,
+          "list_order": 440,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 141,
+          "price_description": ""
+        },
+        {
+          "product_id": "202001150002",
+          "product_name": "金 龙(CW617N)",
+          "price_type": 0,
+          "list_order": 450,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 141,
+          "price_description": ""
+        },
+        {
+          "product_id": "201911280003",
+          "product_name": "金龙(C3604)",
+          "price_type": 0,
+          "list_order": 460,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 141,
+          "price_description": ""
+        },
+        {
+          "product_id": "201911280002",
+          "product_name": "金龙(HPb59-1A)",
+          "price_type": 0,
+          "list_order": 470,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 141,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 87,
+      "category_name": "铜加工材",
+      "list_order": 11045,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201102250457",
+          "product_name": "Φ3mm无氧铜丝(硬)",
+          "price_type": 0,
+          "list_order": 480,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 87,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250508",
+          "product_name": "Φ3mm无氧铜丝(软)",
+          "price_type": 0,
+          "list_order": 490,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 87,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250277",
+          "product_name": "Φ8mm无氧铜杆",
+          "price_type": 0,
+          "list_order": 500,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 87,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250136",
+          "product_name": "漆包线",
+          "price_type": 0,
+          "list_order": 510,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 87,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 88,
+      "category_name": "铜合金",
+      "list_order": 11050,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201102250180",
+          "product_name": "磷铜合金14%",
+          "price_type": 0,
+          "list_order": 520,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 88,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250222",
+          "product_name": "砷铜合金30%",
+          "price_type": 0,
+          "list_order": 530,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 88,
+          "price_description": ""
+        },
+        {
+          "product_id": "201102250039",
+          "product_name": "铍铜合金3.0-3.6%",
+          "price_type": 0,
+          "list_order": 540,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 88,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 89,
+      "category_name": "铜化合物",
+      "list_order": 11055,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201102250533",
+          "product_name": "硫酸铜",
+          "price_type": 0,
+          "list_order": 550,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 89,
+          "price_description": ""
+        }
+      ]
+    },
+    {
+      "category_id": 6,
+      "category_name": "粉末",
+      "list_order": 89999,
+      "item_id": 8,
+      "products": [
+        {
+          "product_id": "201102250464",
+          "product_name": "沪 铜粉",
+          "price_type": 0,
+          "list_order": 560,
+          "auth_state": 0,
+          "item_id": 8,
+          "category_id": 6,
+          "price_description": ""
+        }
+      ]
+    }
+  ]
+}
